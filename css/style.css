@@ -1,0 +1,65 @@
+/* font-family: 'Merriweather', serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Sacramento', cursive;
+font-family: 'Source Serif Pro', serif; */
+
+
+body{
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 780px;
+  background-image: url(../images/1.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  font-family: 'Montserrat', sans-serif;
+
+}
+
+h1{
+  font-family: 'Source Serif Pro', serif;
+  font-weight: bold;
+  font-size: 3rem;
+}
+
+.heading{
+  margin-top:4%;
+  margin-left: 5%;
+  font-weight: bold;
+}
+
+.search{
+  width: 40%;
+  margin-left: 5%;
+  margin-top: 2%;
+  height: 70px;
+  opacity: 0.7;
+}
+
+.placeholder1{
+  margin-left: 5%;
+  margin-top: 2%;
+  width: 600px;
+  height: 300px;
+  border: 2px solid black;
+  border-radius: 15px;
+  text-align: center;
+}
+
+.placeholder1 p {
+  margin-top: 70px;
+  font-size: 6rem;
+  opacity: 0.6;
+}
+
+.bottons{
+  width: 600px;
+  text-align: center;
+  margin-left: 5%;
+  margin-top: 2%;
+}
+
+.play{
+  margin-right: 5%;
+}
